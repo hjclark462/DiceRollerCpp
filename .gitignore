@@ -1,0 +1,50 @@
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+*.iobj
+
+#Visual Studio temporary files
+*.pdb
+*.idb
+*.ipdb
+*.ilk
+*.tlog/
+*.recipe
+**/.vs/
+*.log
+*.lastbuildstate
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Other temporary files
+*.bak
+
+# Allow Raylib files
+!**/Raylib/**
